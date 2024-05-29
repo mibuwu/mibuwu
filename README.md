@@ -3,7 +3,9 @@
 -meu nome é pedro neves
 
 -estou estudando na [Alura](https://www.alura.com.br)
+
 -estou desenvolvendo na linguagem JavaScript
+
 -utilizo desse espaço para minnha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### você entrar em contato comigo 📫
